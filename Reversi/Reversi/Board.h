@@ -4,6 +4,7 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include <activation.h>
 template<typename T>
 class Board{
 public:
